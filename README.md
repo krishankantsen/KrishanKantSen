@@ -1,7 +1,6 @@
+![logo](https://github.com/krishankantsen/KrishanKantSen/blob/main/image.png)
 <h1 align="center">Hi 👋, I'm Krishan Kant Sen</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishankantsen" alt="krishankantsen" /></a> </p>
 
 - 🌱 I’m currently learning **Mern Stack**
 
