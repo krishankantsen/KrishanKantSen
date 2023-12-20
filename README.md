@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **krishankantsen.bhumca22@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17Ki4kE0QwTCIF89pcRpV4jy7iNR6yWDU/view?usp=sharing](https://drive.google.com/file/d/17Ki4kE0QwTCIF89pcRpV4jy7iNR6yWDU/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FdVVgqP7OXa6QMjaBVzrY-LxUjD8Hmau/view?usp=sharing](https://drive.google.com/file/d/1FdVVgqP7OXa6QMjaBVzrY-LxUjD8Hmau/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny**
 
