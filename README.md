@@ -1,3 +1,4 @@
+![Header](./glitch.svg)
 # 💫 About Me:
 - 🔭 Currently a Software Engineer Intern at Xeneonstack<br>- 👯 Seeking collaborations in FullStack Development<br>- 🌱 Learning the ropes of Docker, Kubernetes, and WebRTC<br>- 💬 Ask me anything about Web Development<br>- ⚡ Fun fact: Cricket enthusiast, both on and off the code field! 🏏
 
