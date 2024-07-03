@@ -2,7 +2,7 @@
 [![Download Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=appveyor)]([YOUR_RESUME_URL](https://drive.google.com/file/d/1MM638wcIceE9iWpTQoQUoHP-VGMqDHM7/view?usp=sharing))
 
 # 💫 About Me:
-- 🔭 Currently a Software Engineer Intern at Xeneonstack<br>- 👯 Seeking collaborations in FullStack Development<br>- 🌱 Learning the ropes of Docker, Kubernetes, and WebRTC<br>- 💬 Ask me anything about Web Development<br>- ⚡ Fun fact: Cricket enthusiast, both on and off the code field! 🏏
+- 🔭 Currently a Software Engineer at Xenonstack<br>- 👯 Seeking collaborations in FullStack Development<br>- 🌱 Learning the ropes of Docker, Kubernetes, and WebRTC<br>- 💬 Ask me anything about Web Development<br>- ⚡ Fun fact: Cricket enthusiast, both on and off the code field! 🏏
 
 
 ## 🌐 Socials:
